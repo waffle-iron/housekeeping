@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/radicalfx/housekeeping.png?label=ready&title=Ready)](https://waffle.io/radicalfx/housekeeping?utm_source=badge)
 housekeeping
 ============
 
